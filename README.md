@@ -1,6 +1,6 @@
 # Bookmarks
 
-### [Link to site](https://lrbrk.github.io/bookmarks/)
+### [Link to site](https://lrbrk33.github.io/bookmarks/)
 ### [Favicon Generation](https://realfavicongenerator.net/)
 
 ### To run locally:
